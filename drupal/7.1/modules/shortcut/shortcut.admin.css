@@ -1,0 +1,9 @@
+/* $Id$ */
+
+.shortcut-slot-hidden {
+  display: none;
+}
+
+div.form-item-set div.form-item-new {
+  display: inline;
+}

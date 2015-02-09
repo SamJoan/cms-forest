@@ -1,0 +1,41 @@
+twig_theme_test.php_variables:
+  path: '/twig-theme-test/php-variables'
+  defaults:
+    _controller: '\Drupal\twig_theme_test\TwigThemeTestController::phpVariablesRender'
+  requirements:
+    _access: 'TRUE'
+
+twig_theme_test.trans:
+  path: '/twig-theme-test/trans'
+  defaults:
+    _controller: '\Drupal\twig_theme_test\TwigThemeTestController::transBlockRender'
+  requirements:
+    _access: 'TRUE'
+
+twig_theme_test_url_generator:
+  path: '/twig-theme-test/url-generator'
+  defaults:
+    _controller: '\Drupal\twig_theme_test\TwigThemeTestController::urlGeneratorRender'
+  requirements:
+    _access: 'TRUE'
+
+twig_theme_test_link_generator:
+  path: '/twig-theme-test/link-generator'
+  defaults:
+    _controller: '\Drupal\twig_theme_test\TwigThemeTestController::linkGeneratorRender'
+  requirements:
+    _access: 'TRUE'
+
+twig_theme_test_file_url:
+  path: '/twig-theme-test/file-url'
+  defaults:
+    _controller: '\Drupal\twig_theme_test\TwigThemeTestController::fileUrlRender'
+  requirements:
+    _access: 'TRUE'
+
+twig_theme_test_registry_loader:
+  path: '/twig-theme-test/registry-loader'
+  defaults:
+    _controller: '\Drupal\twig_theme_test\TwigThemeTestController::registryLoaderRender'
+  requirements:
+    _access: 'TRUE'

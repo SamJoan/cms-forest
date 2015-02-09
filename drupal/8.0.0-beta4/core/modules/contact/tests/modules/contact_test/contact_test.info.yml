@@ -1,0 +1,14 @@
+name: 'Contact test module'
+type: module
+description: 'Contains test contact form.'
+package: Testing
+# version: VERSION
+# core: 8.x
+dependencies:
+  - contact
+
+# Information added by Drupal.org packaging script on 2014-12-17
+version: '8.0.0-beta4'
+core: '8.x'
+project: 'drupal'
+datestamp: 1418825452

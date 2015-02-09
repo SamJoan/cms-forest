@@ -1,0 +1,15 @@
+name: Testing
+type: profile
+description: 'Minimal profile for running tests. Includes absolutely required modules only.'
+# version: VERSION
+# core: 8.x
+hidden: true
+# @todo: Remove this in https://www.drupal.org/node/2352949
+themes:
+  - classy
+
+# Information added by Drupal.org packaging script on 2014-12-17
+version: '8.0.0-beta4'
+core: '8.x'
+project: 'drupal'
+datestamp: 1418825452

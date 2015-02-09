@@ -1,0 +1,81 @@
+base_table: views_test_data
+core: '8'
+description: ''
+status: '1'
+display:
+  default:
+    display_options:
+      defaults:
+        fields: '0'
+        pager: '0'
+        pager_options: '0'
+        sorts: '0'
+      fields:
+        id_broken:
+          field: id_broken
+          id: id_broken
+          relationship: none
+          table: views_test_data
+          plugin_id: numeric
+      filters:
+        id_broken:
+          field: id_broken
+          id: id_broken
+          relationship: none
+          table: views_test_data
+          plugin_id: numeric
+      arguments:
+        id_broken:
+          field: id_broken
+          id: id_broken
+          relationship: none
+          table: views_test_data
+          plugin_id: numeric
+      sorts:
+        id_broken:
+          field: id_broken
+          id: id_broken
+          relationship: none
+          table: views_test_data
+          plugin_id: numeric
+          order: ASC
+      relationships:
+        id_broken:
+          field: id_broken
+          id: id_broken
+          relationship: none
+          table: views_test_data
+          plugin_id: numeric
+      header:
+        id_broken:
+          field: id_broken
+          id: id_broken
+          relationship: none
+          table: views_test_data
+          plugin_id: numeric
+      footer:
+        id_broken:
+          field: id_broken
+          id: id_broken
+          relationship: none
+          table: views_test_data
+          plugin_id: numeric
+      empty:
+        id_broken:
+          field: id_broken
+          id: id_broken
+          relationship: none
+          table: views_test_data
+          plugin_id: numeric
+      pager:
+        options:
+          offset: '0'
+        type: none
+      pager_options: {  }
+    display_plugin: default
+    display_title: Master
+    id: default
+    position: 0
+label: 'Test view'
+id: test_view_broken
+tag: ''

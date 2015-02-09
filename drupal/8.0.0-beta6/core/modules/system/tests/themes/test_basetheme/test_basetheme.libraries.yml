@@ -1,7 +1,0 @@
-global-styling:
-  version: VERSION
-  css:
-    base:
-      base-add.css: {}
-      base-add.sub-override.css: {}
-      base-add.sub-remove.css: {}

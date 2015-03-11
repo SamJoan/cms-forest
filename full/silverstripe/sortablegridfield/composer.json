@@ -1,0 +1,25 @@
+{
+	"name": "undefinedoffset/sortablegridfield",
+	"description": "Adds drag and drop functionality to SilverStripe 3.0's GridField",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "gridfield"],
+    "license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Ed Chipman",
+			"homepage": "http://www.edchipman.ca",
+			"role": "Developer"
+		}
+	],
+	"require":
+	{
+		"silverstripe/framework": ">=3.0.1,<3.2",
+		"composer/installers": "*"
+	},
+	"support": {
+		"issues": "https://github.com/undefinedoffset/SortableGridField/issues"
+	},
+	"extra": {
+		"installer-name": "sortablegridfield"
+	}
+}

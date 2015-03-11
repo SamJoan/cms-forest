@@ -1,0 +1,10 @@
+{
+    "require": {
+        "undefinedoffset/sortablegridfield": "dev-master",
+        "silverstripe/fulltextsearch": "dev-master",
+        "silverstripe/lumberjack": "dev-master",
+        "silverstripe/widgets": "dev-master",
+        "silverstripe/userforms": "2.0.7",
+        "entidi/silverstrap-cerulean": "2.0.3"
+    }
+}

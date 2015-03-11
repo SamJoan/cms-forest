@@ -1,0 +1,26 @@
+---
+Name: defaultprocessor
+---
+Injector:
+  SearchUpdateProcessor:
+    class: SearchUpdateImmediateProcessor
+---
+Name: messagequeueprocessor
+Only:
+  ModuleExists: messagequeue
+Except:
+  Environment: 'dev'
+---
+Injector:
+  SearchUpdateProcessor:
+    class: SearchUpdateMessageQueueProcessor
+---
+Name: queuedjobprocessor
+Only:
+  ModuleExists: queuedjobs
+Except:
+  Environment: 'dev'
+---
+Injector:
+  SearchUpdateProcessor:
+    class: SearchUpdateQueuedJobProcessor

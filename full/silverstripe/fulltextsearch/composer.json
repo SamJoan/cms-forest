@@ -1,0 +1,23 @@
+{
+	"name": "silverstripe/fulltextsearch",
+	"description": "Adds support for Fulltext Search engines like Sphinx and Solr to SilverStripe CMS",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "sphinx", "solr", "fulltext"],
+	"authors": [
+		{
+			"name": "Hamish Friedlander",
+			"email": "hamish@silverstripe.com"
+		}
+	],
+	"require": {
+		"silverstripe/framework": "~3.1"
+	},
+	"require-dev": {
+		"silverstripe/cms": "~3.1",
+		"hafriedlander/silverstripe-phockito": "*"
+	},
+	"suggest": {
+		"silverstripe/fulltextsearch-localsolr": "Adds a ready-to-use local Solr server for initial development"
+	},
+	"minimum-stability": "dev"
+}

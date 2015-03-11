@@ -1,0 +1,171 @@
+en:
+  CustomRule:
+    BLANK: Blank
+    DELETE: Delete
+    GREATERTHAN: 'Value Greater Than'
+    GREATERTHANEQUAL: 'Value Greater Than Or Equal'
+    HIDETHISFIELD: 'Hide This Field'
+    IS: Is
+    LESSTHAN: 'Value Less Than'
+    LESSTHANEQUAL: 'Value Less Than Or Equal'
+    NOTBLANK: 'Not Blank'
+    NOTVALUE: 'Not Value'
+    SHOWTHISFIELD: 'Show This Field'
+    VALUE: Value
+    WHEN: When
+  EditableCheckbox:
+    PLURALNAME: Checkboxes
+    SINGULARNAME: 'Checkbox Field'
+  EditableCheckboxGroupField:
+    PLURALNAME: 'Checkbox Groups'
+    SINGULARNAME: 'Checkbox Group'
+  EditableCountryDropdownField:
+    PLURALNAME: 'Country Dropdowns'
+    SINGULARNAME: 'Country Dropdown'
+  EditableDateField:
+    PLURALNAME: 'Date Fields'
+    SINGULARNAME: 'Date Field'
+  EditableDropdown:
+    PLURALNAME: Dropdowns
+    SINGULARNAME: 'Dropdown Field'
+  EditableEmailField:
+    PLURALNAME: 'Email Fields'
+    SINGULARNAME: 'Email Field'
+  EditableFileField:
+    PLURALNAME: 'File Upload Fields'
+    SINGULARNAME: 'File Upload Field'
+  EditableFormField:
+    ADD: Add
+    ADDLabel: 'Add option'
+    ADDRULE: 'Add Rule'
+    BLANK: Blank
+    CHECKEDBYDEFAULT: 'Checked by Default?'
+    CUSTOMERROR: 'Custom Error Message'
+    CUSTOMRULES: 'Custom Rules'
+    DEFAULTTOTODAY: 'Default to Today?'
+    DELETE: Delete
+    DRAG: 'Drag to rearrange order of fields'
+    ENTERQUESTION: 'Enter Question'
+    EXTRACLASSA: 'Extra Styling/Layout'
+    EXTRACLASSB: 'Extra css Class - separate multiples with a space'
+    FIELDCONFIGURATION: 'Field Configuration'
+    FIELDONDEFAULT: 'Field On Default'
+    GREATERTHAN: 'Value Greater Than'
+    GREATERTHANEQUAL: 'Value Greater Than Or Equal'
+    GROUP: Group
+    HIDE: Hide
+    HIDETHISFIELD: 'Hide This Field'
+    IS: Is
+    LESSTHAN: 'Value Less Than'
+    LESSTHANEQUAL: 'Value Less Than Or Equal'
+    LOCKED: 'These fields cannot be modified'
+    MAXVALUE: 'Max Value'
+    MINVALUE: 'Min Value'
+    NO: No
+    NOTBLANK: 'Not Blank'
+    NOTVALUE: 'Not Value'
+    OPTIONS: Options
+    PLURALNAME: 'Editable Form Fields'
+    REQUIRED: 'Is this field Required?'
+    RIGHTTITLE: 'Right Title'
+    SHOW: Show
+    SHOWOPTIONS: 'Show Options'
+    SHOWTHISFIELD: 'Show This Field'
+    SINGULARNAME: 'Editable Form Field'
+    VALIDATION: Validation
+    VALUE: Value
+    WHEN: When
+    YES: Yes
+  EditableFormHeading:
+    LEVEL: 'Select Heading Level'
+    PLURALNAME: Headings
+    SINGULARNAME: Heading
+  EditableLiteralField:
+    HIDEFROMREPORT: 'Hide from reports?'
+    PLURALNAME: 'HTML Blocks'
+    SINGULARNAME: 'HTML Block'
+  EditableMemberListField:
+    PLURALNAME: 'Member List Fields'
+    SINGULARNAME: 'Member List Field'
+  EditableMultipleOptionField:
+    PLURALNAME: 'Editable Multiple Option Fields'
+    SINGULARNAME: 'Editable Multiple Option Field'
+  EditableNumericField:
+    PLURALNAME: 'Numeric Fields'
+    SINGULARNAME: 'Numeric Field'
+  EditableOption:
+    DELETE: 'Remove this option'
+    DRAG: 'Drag to rearrange order of options'
+    LOCKED: 'These fields cannot be modified'
+    PLURALNAME: 'Editable Options'
+    SINGULARNAME: 'Editable Option'
+  EditableRadioField:
+    PLURALNAME: 'Radio fields'
+    SINGULARNAME: 'Radio field'
+  EditableTextField:
+    NUMBERROWS: 'Number of rows'
+    PLURALNAME: 'Text Fields'
+    SINGULARNAME: 'Text Field'
+    TEXTLENGTH: 'Text length'
+  EditableUploadField:
+    SELECTUPLOADFOLDER: 'Select upload folder'
+  FieldEditor:
+    ADD: Add
+    SELECTAFIELD: 'Select a Field'
+  Form:
+    FIELDISREQUIRED: '%s is required'
+  GridField:
+    Filter: Filter
+    ResetFilter: Reset
+  SiteTree:
+    PLURALNAME: Pages
+    SINGULARNAME: Page
+  SubmittedFileField:
+    DOWNLOADFILE: 'Download File'
+    PLURALNAME: 'Submitted File Fields'
+    SINGULARNAME: 'Submitted File Field'
+  SubmittedForm:
+    PLURALNAME: 'Submitted Forms'
+    SINGULARNAME: 'Submitted Form'
+  SubmittedFormField:
+    PLURALNAME: 'Submitted Form Fields'
+    SINGULARNAME: 'Submitted Form Field'
+  UserDefinedForm:
+    ADDEMAILRECIPIENT: 'Add Email Recipient'
+    CLEARBUTTON: Clear
+    CONFIGURATION: Configuration
+    DESCRIPTION: 'Adds a customizable form.'
+    DISABLEAUTHENICATEDFINISHACTION: 'Disable Authenication on finish action'
+    DISABLECSRFSECURITYTOKEN: 'Disable CSRF Token'
+    EMAILADDRESS: Email
+    EMAILBODY: Body
+    EMAILFROM: From
+    EMAILRECIPIENTS: 'Email Recipients'
+    EMAILSUBJECT: 'Email subject'
+    ENABLELIVEVALIDATION: 'Enable live validation'
+    EmailFromContent: 'The from address allows you to set who the email comes from. On most servers this will need to be set to an email address on the same domain name as your site. For example on yoursite.com the from address may need to be something@yoursite.com. You can however, set any email address you wish as the reply to address.'
+    FORM: Form
+    FROMADDRESS: 'Send email from'
+    HIDEFIELDLABELS: 'Hide field labels'
+    HIDEFORMDATA: 'Hide form data from email?'
+    ONCOMPLETELABEL: 'Show on completion'
+    ORSELECTAFIELDTOUSEASFROM: '.. or select a field to use as reply to address'
+    ORSELECTAFIELDTOUSEASTO: '.. or select a field to use as the to address'
+    PLURALNAME: 'User Defined Forms'
+    REPLYADDRESS: 'Email for reply to'
+    SAVESUBMISSIONS: 'Disable Saving Submissions to Server'
+    SELECTAFIELDTOSETSUBJECT: '.. or select a field to use as the subject'
+    SENDEMAILTO: 'Send email to'
+    SENDPLAIN: 'Send email as plain text? (HTML will be stripped)'
+    SHOWCLEARFORM: 'Show Clear Form Button'
+    SINGULARNAME: 'User Defined Form'
+    SUBMISSIONS: Submissions
+    SUBMITBUTTON: Submit
+    TEXTONCLEAR: 'Text on clear button:'
+    TEXTONSUBMIT: 'Text on submit button:'
+  UserDefinedForm_EmailRecipient:
+    PLURALNAME: 'User Defined Form Email Recipients'
+    SINGULARNAME: 'User Defined Form Email Recipient'
+  UserFormsGridFieldFilterHeader:
+    FILTERSUBMISSIONS: 'Filter Submissions..'
+    WHEREVALUEIS: 'where value is..'

@@ -1,0 +1,29 @@
+{
+    "name": "entidi/silverstrap-cerulean",
+    "description": "Silverstrap customization that uses the Cerulean theme from bootswatch.com",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "bootstrap", "silverstrap", "cerulean"],
+    "target-dir": "themes/silverstrap_Page",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Nicola Fontana",
+            "email": "ntd@entidi.it",
+            "homepage": "http://www.entidi.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~3.0",
+        "entidi/silverstrap": "~2.0"
+    },
+    "extra": {
+        "screenshots": [
+            "http://silverstripe.entidi.com/assets/cerulean.png"
+        ]
+    },
+    "support": {
+        "issues": "http://dev.entidi.com/p/silverstrap-cerulean/issues/",
+        "source": "http://dev.entidi.com/p/silverstrap-cerulean/source/tree/master/"
+    }
+}

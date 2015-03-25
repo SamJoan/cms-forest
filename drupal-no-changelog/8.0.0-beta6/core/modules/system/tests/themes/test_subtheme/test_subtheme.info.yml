@@ -1,0 +1,22 @@
+name: 'Theme test subtheme'
+type: theme
+description: 'Test theme which uses test_basetheme as the base theme.'
+# version: VERSION
+# core: 8.x
+base theme: test_basetheme
+libraries:
+  - test_subtheme/global-styling
+stylesheets-override:
+  - css/sub-override.css
+  - css/base-add.sub-override.css
+  - css/base-remove.sub-override.css
+stylesheets-remove:
+  - sub-remove.css
+  - base-add.sub-remove.css
+  - base-override.sub-remove.css
+
+# Information added by Drupal.org packaging script on 2015-01-28
+version: '8.0.0-beta6'
+core: '8.x'
+project: 'drupal'
+datestamp: 1422443984

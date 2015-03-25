@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - taxonomy
+id: taxonomy_term.forum_container
+field_name: forum_container
+entity_type: taxonomy_term
+type: boolean
+settings:
+  on_label: Yes
+  off_label: No
+module: core
+locked: true
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false

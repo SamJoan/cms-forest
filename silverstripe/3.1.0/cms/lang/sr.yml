@@ -1,0 +1,135 @@
+sr:
+  AssetAdmin:
+    NEWFOLDER: Нова фасцикла
+  AssetAdmin_left_ss:
+    GO: Иди
+  CMSMain:
+    EMAIL: Е-пошта
+    PAGENOTEXISTS: 'Ова страна не постоји'
+    PUBALLCONFIRM: 'Објавите сваку страну на овом сајту копирањем садржај на жив сајт.'
+    PUBALLFUN: 'Функција „Објави све“ '
+    PUBALLFUN2: "Притиском на ово дугме постићи ћете исто што и одласком на сваку страну и притискањем дугмета „објави“ . Намењена је за коришћене након великих измена садржаја као када се сајт први пут објављује."
+    ROLLBACK: 'Врати се на ову верзију'
+    SAVE: Сачувај
+  CMSPageHistoryController:
+    COMPAREMODE: 'Uporedni metod (izaberi dva)'
+    COMPAREVERSIONS: 'Uporediti verzije'
+    REVERTTOTHISVERSION: 'Vrati se na ovu verziju'
+    SHOWUNPUBLISHED: 'Pokaži neobjavljene verzije'
+    SHOWVERSION: 'Pokaži verziju'
+    VIEW: pregled
+  CMSPageHistoryController_versions_ss:
+    AUTHOR: Autor
+    NOTPUBLISHED: 'Neobjavljeno'
+    PUBLISHER: Izdavač
+    UNKNOWN: Nepoznato
+    WHEN: Datum
+  CMSPagesController:
+    GalleryView: 'Prikaz galerije'
+    MENUTITLE: Stranice
+    TreeView: 'Prikaz drveta'
+  CMSSiteTreeFilter_DeletedPages:
+    Title: 'Sve stranice, uključujući i izbrisane'
+  CMSSiteTreeFilter_Search:
+    Title: 'Sve stranice'
+  ContentControl:
+    NOTEWONTBESHOWN: 'Primedba: ova poruka neće biti prikazana vašim posetiocima'
+  ErrorPage:
+    400: '400 - Лош захтев'
+    403: '403 - Забрањено'
+    404: '404 - Није пронађено'
+    405: '405 - Метода није дозвољена'
+    406: '406 - није прихватљиво'
+    500: '500 - Интерна грешка у серверу'
+    501: '501 - Није имплементирано'
+    503: '503 - Сервис није доступан'
+    505: '505 - HTTP верзија није подржана'
+    CODE: 'Код грешке'
+    DEFAULTERRORPAGETITLE: 'Страница није пронађена'
+  Folder:
+    AddFolderButton: 'Dodaj direktorijum'
+    DELETEUNUSEDTHUMBNAILS: 'Obriši nekorišćene umanjene prikaze'
+    UNUSEDFILESTITLE: 'Nekorišćeni fajlovi'
+    UNUSEDTHUMBNAILSTITLE: 'Nekorišćeni umanjeni prikazi'
+    UploadFilesButton: Postavi
+  RedirectorPage:
+    DESCRIPTION: 'Preusmerava na drugu stranicu'
+    HASBEENSETUP: 'Stranica za preusmeravanje je podešena bez parametara preusmeravanja.'
+    HEADER: 'Ova stranica će preusmeriti korisnike na drugu stranicu'
+    OTHERURL: 'URL drugog sajta'
+    REDIRECTTO: 'Preusmeri na'
+    REDIRECTTOEXTERNAL: 'Drugi sajt'
+    REDIRECTTOPAGE: 'Stranicu na vašem sajtu'
+    YOURPAGE: 'Stranica na vašem sajtu'
+  SearchForm:
+    SEARCH: Pretraga
+  SideReport:
+    EMPTYPAGES: 'Празне стране'
+    LAST2WEEKS: 'Стране мењане у задње две недеље'
+  SilverStripeNavigatorLink:
+    ShareLink: 'Podeliti link'
+  SilverStripeNavigatorLinkl:
+    CloseLink: Zatvoriti
+  SiteTree:
+    ACCESSANYONE: Свако
+    ACCESSHEADER: 'Ko može da vidi ovu stranicu?'
+    ACCESSLOGGEDIN: 'Пријављени корисници'
+    ACCESSONLYTHESE: 'Samo ove osobe (izaberi sa liste)'
+    ALLOWCOMMENTS: 'Дозволити коментаре на овој страни?'
+    BUTTONCANCELDRAFT: 'Откажи промене на нацрту'
+    BUTTONCANCELDRAFTDESC: 'Избришите свој нацрт и вратите се на тренутно објављену страну'
+    BUTTONUNPUBLISH: Повуци објављивање
+    BUTTONUNPUBLISHDESC: 'Izbriši ovu stranicu sa sajta na kome je objavljena'
+    CREATED: 'Datum kreiranja'
+    Comments: Komentari
+    DEFAULTABOUTTITLE: 'O nama'
+    DEFAULTCONTACTTITLE: 'Контактирајте нас'
+    DEFAULTHOMETITLE: Početna stranica
+    DEPENDENT_NOTE: 'Sledeće stranice oslanjaju se na ovu stranicu. Ovo podrazumeva virtuelne stranice, preusmeravajuće stranice i stranice sa linkovima sadržaja.'
+    DependtPageColumnLinkType: 'Vrsta linka'
+    EDITANYONE: 'Свако ко може да се пријави на CMS'
+    EDITHEADER: 'Ко може да мења ову страницу у CMS-у?'
+    EDITONLYTHESE: 'Samo ove osobe (izaberite sa liste)'
+    EDIT_ALL_HELP: 'Mogućnost menjanja bilo koje stranice na sajtu, bez obzira na podešavanja unutar kartice "Pristup". Zahteva dozvolu "Pristup odeljku ‚Stranice‚"'
+    Editors: 'Grupe editora'
+    HASBROKENLINKS: 'Ова страна има неважеће линкове.'
+    HTMLEDITORTITLE: Садржај
+    INHERIT: 'Naslediti od izvorne strane'
+    LINKCHANGENOTE: 'Promena linka ove stranice će uticati na linkove svih pod-stranica takođe.'
+    MENUTITLE: 'Натпис за навигацију'
+    METADESC: 'Опис'
+    METAEXTRA: 'Прилагођени мета тагови'
+    PAGELOCATION: 'Lokacija stranice'
+    PAGETITLE: 'Naziv stranice'
+    PAGETYPE: 'Тип стране'
+    PARENTID: 'Izvorna strana'
+    PARENTTYPE: 'Lokacija stranice'
+    PERMISSION_GRANTACCESS_DESCRIPTION: 'Promeni dozvole pristupu sadržaju'
+    REMOVEDFROMDRAFTSHORT: 'Izbrisano sa nacrta'
+    SHOWINMENUS: 'Приказати у менијима?'
+    SHOWINSEARCH: 'Prikazati u pretrazi?'
+    TABBEHAVIOUR: Понашање
+    TABCONTENT: 'Садржај'
+    TOPLEVEL: 'Sadržaj sajta (glavni nivo)'
+    URLSegment: 'Segment URL adrese'
+    VIEWERGROUPS: 'Grupe pregledača'
+    VIEW_DRAFT_CONTENT_HELP: 'Primenjuje se na gledanje stranica van CMS-a u nacrtnom modu. Korisno za spoljne sradnike bez pristupa CMS-u.'
+  StaticExporter:
+    BASEURL: 'Osnovni URL'
+    EXPORTTO: 'Izvesti u ovaj direktorijum'
+    NAME: 'Statički izvoznik'
+  TableListField_PageControls_ss:
+    VIEWNEXT: 'Погледај следеће'
+    VIEWPREVIOUS: 'Погледај претходно'
+  ViewArchivedEmail_ss:
+    CANACCESS: 'Можете да приступите архивираном садржају на овом линку:'
+    HAVEASKED: 'Замољени сте да погледате садржај овог сајта'
+  VirtualPage:
+    DESCRIPTION: 'Prikazuje sadržaj druge stranice'
+    HEADER: 'Ovo je virtuelna strana'
+    PLURALNAME: 'Virtuelne stranice'
+    SINGULARNAME: 'Virtuelna strana'
+  CMSPageSettingsController:
+    MENUTITLE: 'Izmeni stranicu'
+  CMSSettingsController:
+    MENUTITLE: Podešavanja

@@ -1,0 +1,53 @@
+ro:
+  CMSPageHistoryController:
+    COMPAREMODE: 'Режим сравнения (выбрать две)'
+    COMPAREVERSIONS: 'Сравнение версий'
+    REVERTTOTHISVERSION: 'Вернуться на эту версию'
+    SHOWUNPUBLISHED: 'Показать неизданную версию'
+    SHOWVERSION: 'Показать версию'
+    VIEW: просмотр
+    MENUTITLE: История
+  CMSPageHistoryController_versions_ss:
+    AUTHOR: Автор
+    NOTPUBLISHED: 'Не издано'
+    PUBLISHER: Издатель
+    UNKNOWN: Неизвестно
+    WHEN: Когда
+  CMSPagesController:
+    GalleryView: 'Обзор галереи'
+    ListView: 'Список'
+    MENUTITLE: Страницы
+    TreeView: 'Дерево'
+  CMSSiteTreeFilter_Search:
+    Title: 'Все страницы'
+  LeftAndMain:
+    PreviewButton: Просмотр
+    VersionUnknown: Неизвестно
+  RedirectorPage:
+    OTHERURL: 'Адрес другого сайта'
+  SiteTree:
+    ACCESSANYONE: Oricine
+    ACCESSHEADER: 'Cine poate vizualiza această pagină pe site-ul meu?'
+    ACCESSLOGGEDIN: 'Utilizatorii autentificaţi'
+    ACCESSONLYTHESE: 'Doar aceste persoane (selectează din listă)'
+    ALLOWCOMMENTS: 'Acceptă comentarii în aceasta pagină? '
+    Content: Continut
+    EDITONLYTHESE: 'Doar aceste persoane (selectează din listă)'
+    HTMLEDITORTITLE: Continut
+    METADESC: 'Descriere'
+    PAGETITLE: 'Nume pagină'
+    PAGETYPE: 'Tipul paginii'
+    SHOWINMENUS: 'Afişează in meniu?'
+    TABBEHAVIOUR: Comportament
+    TABCONTENT: 'Conţinut '
+    URLSegment: 'Segment URL'
+    has_one_Parent: 'Pagina Parinte'
+  VirtualPage:
+    DESCRIPTION: 'Показать содержание другой страницы'
+    HEADER: 'Aceasta este o pagină virtuală '
+    PLURALNAME: 'Вирт. страницы'
+    SINGULARNAME: 'Pagina Virtuala'
+  CMSPageSettingsController:
+    MENUTITLE: 'Править страницу'
+  CMSSettingsController:
+    MENUTITLE: Настройки

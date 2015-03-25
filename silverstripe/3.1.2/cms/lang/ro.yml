@@ -1,0 +1,134 @@
+ro:
+  AssetAdmin:
+    ADDFILES: 'Adăugați fișiere'
+    ActionAdd: 'Adăugați dosarul'
+    AppCategoryArchive: Arhivă
+    AppCategoryAudio: Audio
+    AppCategoryDocument: Document
+    AppCategoryFlash: Flash
+    AppCategoryImage: Imagine
+    AppCategoryVideo: Video
+    BackToFolder: 'Înapoi la dosar'
+    CREATED: Dată
+    CurrentFolderOnly: 'Limitare la directorul curent?'
+    DetailsView: Detalii
+    FILES: Fişiere
+    FILESYSTEMSYNC: 'Sincronizare fişiere'
+    FROMTHEINTERNET: 'Din internet'
+    FROMYOURCOMPUTER: 'De pe calculator'
+    Filetype: 'Tip fişier'
+    ListView: 'Vizualizare listă'
+    NEWFOLDER: Dosar nou
+    TreeView: 'Vizualizare arborescentă'
+    Upload: Upload
+    MENUTITLE: Fişiere
+  AssetAdmin_DeleteBatchAction:
+    TITLE: 'Ştergere dosare'
+  AssetAdmin_Tools:
+    FILTER: Filtru
+  AssetTableField:
+    PAGES: pagină(pagini)
+  BackLink_Button_ss:
+    Back: Înapoi
+  BrokenLinksReport:
+    Any: Oricare
+    BROKENLINKS: 'Raport cu link-uri nefuncţionale'
+    CheckSite: 'Verificare site'
+    CheckSiteDropdownDraft: 'Site ciornă (draft)'
+    CheckSiteDropdownPublished: 'Site publicat'
+    ColumnDateLastModified: 'Data ultimei modificări'
+    ColumnDateLastPublished: 'Data ultimei publicări'
+    ColumnProblemType: 'Tip problemă'
+    ColumnURL: URL
+    HasBrokenFile: 'are fişiere corupte'
+    HasBrokenLink: 'are link-uri nefuncţionale'
+    HasBrokenLinkAndFile: 'are link-uri nefuncţionale şi fişiere corupte'
+    HoverTitleEditPage: 'Editare pagină'
+    PageName: 'Nume pagină'
+    ReasonDropdown: 'Problemă de verificat'
+    ReasonDropdownBROKENFILE: 'Fişier corupt'
+    ReasonDropdownBROKENLINK: 'Link nefuncţional'
+    ReasonDropdownRPBROKENLINK: 'Pagina de redirectare arată spre o pagină inexistentă'
+    ReasonDropdownVPBROKENLINK: 'Pagina virtuală arată spre o pagină inexistentă'
+    RedirectorNonExistent: 'pagina de redirectare arată spre o pagină inexistentă'
+    VirtualPageNonExistent: 'pagina virtuală arată spre o pagină inexistentă'
+  CMSAddPageController:
+    Title: 'Adăugare pagină'
+  CMSBatchActions:
+    DELETED_DRAFT_PAGES: 'Au fost şterse %d pagini de pe site-ul ciornă, %d erori'
+    DELETED_PAGES: 'Au fost şterse %d pagini de pe site-ul live, %d erori'
+    DELETE_DRAFT_PAGES: 'Ştergere de pe site-ul ciornă'
+    DELETE_PAGES: 'Ştergere de pe site-ul live'
+    PUBLISHED_PAGES: '%d pagini publicate, %d erori'
+    PUBLISH_PAGES: Publicare
+    UNPUBLISHED_PAGES: '%d pagini au fost deactivate de la publicare'
+    UNPUBLISH_PAGES: Deactivare publicare
+  CMSMain:
+    ACCESS: 'Acces la secţiunea ''{title}'' '
+    AddNew: 'Adăugaţi o pagină nouă'
+    AddNewButton: 'Adăugaţi'
+    ChoosePageParentMode: 'Alegeți unde veţi crea această pagină'
+    ChoosePageType: 'Alegeţi tipul de pagină'
+    Create: Creaţi
+    DELETE: 'Ştergere ciornă'
+    DELETEFP: Ştergere
+    DESCREMOVED: 'și {count} descendenți'
+    EMAIL: e-mail
+    EditTree: 'Editare structură arbore'
+    ListFiltered: 'Listă filtrată'
+    NEWPAGE: '{pagetype} nouă'
+    PAGENOTEXISTS: 'Această pagină nu există'
+    PAGES: Pagini
+    PAGETYPEANYOPT: Oricare
+    PAGETYPEOPT: 'Tip pagină'
+  CMSPageHistoryController:
+    COMPAREMODE: 'Режим сравнения (выбрать две)'
+    COMPAREVERSIONS: 'Сравнение версий'
+    REVERTTOTHISVERSION: 'Вернуться на эту версию'
+    SHOWUNPUBLISHED: 'Показать неизданную версию'
+    SHOWVERSION: 'Показать версию'
+    VIEW: просмотр
+    MENUTITLE: История
+  CMSPageHistoryController_versions_ss:
+    AUTHOR: Автор
+    NOTPUBLISHED: 'Не издано'
+    PUBLISHER: Издатель
+    UNKNOWN: Неизвестно
+    WHEN: Когда
+  CMSPagesController:
+    GalleryView: 'Обзор галереи'
+    ListView: 'Список'
+    MENUTITLE: Страницы
+    TreeView: 'Дерево'
+  CMSSiteTreeFilter_Search:
+    Title: 'Все страницы'
+  LeftAndMain:
+    PreviewButton: Просмотр
+  RedirectorPage:
+    OTHERURL: 'Адрес другого сайта'
+  SiteTree:
+    ACCESSANYONE: Oricine
+    ACCESSHEADER: 'Cine poate vizualiza această pagină pe site-ul meu?'
+    ACCESSLOGGEDIN: 'Utilizatorii autentificaţi'
+    ACCESSONLYTHESE: 'Doar aceste persoane (selectează din listă)'
+    ALLOWCOMMENTS: 'Acceptă comentarii în aceasta pagină? '
+    Content: Continut
+    EDITONLYTHESE: 'Doar aceste persoane (selectează din listă)'
+    HTMLEDITORTITLE: Continut
+    METADESC: 'Descriere'
+    PAGETITLE: 'Nume pagină'
+    PAGETYPE: 'Tipul paginii'
+    SHOWINMENUS: 'Afişează in meniu?'
+    TABBEHAVIOUR: Comportament
+    TABCONTENT: 'Conţinut '
+    URLSegment: 'Segment URL'
+    has_one_Parent: 'Pagina Parinte'
+  VirtualPage:
+    DESCRIPTION: 'Показать содержание другой страницы'
+    HEADER: 'Aceasta este o pagină virtuală '
+    PLURALNAME: 'Вирт. страницы'
+    SINGULARNAME: 'Pagina Virtuala'
+  CMSPageSettingsController:
+    MENUTITLE: 'Править страницу'
+  CMSSettingsController:
+    MENUTITLE: Настройки

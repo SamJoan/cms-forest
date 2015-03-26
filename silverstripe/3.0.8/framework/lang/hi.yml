@@ -1,0 +1,4 @@
+hi:
+  Group:
+    RolesAddEditLink: 'भूमिकाओं का प्रबंधन करे '
+    has_many_Permissions: अनुमतियाँ

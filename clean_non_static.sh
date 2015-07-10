@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function delete_non_static() {
-    files=`find * -type f | grep -vE '\.(js|css|txt|xml|sql|json|yml|sh|md)$'`
+    files=`find * -type f | grep -vE '\.(js|css|txt|xml|sql|json|yml|sh|md|py)$'`
     for file in $files; do rm $file; done
 }
 

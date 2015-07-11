@@ -68,6 +68,6 @@ for common in common_good:
 most_common = common_good_score.most_common(10)
 most_discard = should_discard.most_common(5)
 
-print(most_common)
-print(most_discard)
+print("Most common: ", most_common)
+print("Should discard: ", most_discard)
 
